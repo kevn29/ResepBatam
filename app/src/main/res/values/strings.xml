@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, RecipesAppActivity!</string>
+    <string name="app_name">Resep Masakan Batam</string>
+    <string name="search_by">Search by name</string>
+    <string name="search">Search</string>
+    <string name="summary">Deskripsi Masakan</string>
+    <string name="ingredients">Bahan - Bahan</string>
+    <string name="directions">Cara Memasak</string>
+    <string name="alert">Resep tidak ada.</string>
+    <string name="desc">Deskrip</string>
+
+</resources>

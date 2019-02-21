@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml
+		INJECTED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml
+		INJECTED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml
+		INJECTED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:7:5-37:19
+	android:supportsRtl
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:10:9-47
+	android:allowBackup
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:9:9-35
+activity#com.recipes.app.SplashScreen
+ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:13:9-24:20
+	android:label
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:16:13-45
+	android:noHistory
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:17:13-37
+	android:configChanges
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:15:13-63
+	android:theme
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:18:13-60
+	android:name
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.recipes.app.RecipesList
+ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:25:9-28:63
+	android:configChanges
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:27:13-63
+	android:theme
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:26:13-40
+activity#com.recipes.app.RecipeDetail
+ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:29:9-32:63
+	android:configChanges
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:31:13-63
+	android:theme
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:32:13-60
+	android:name
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:30:13-41
+activity#com.recipes.app.AboutApp
+ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:33:9-36:63
+	android:configChanges
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:35:13-63
+	android:theme
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:36:13-60
+	android:name
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml:34:13-37
+uses-sdk
+INJECTED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml
+INJECTED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml
+INJECTED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml
+INJECTED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml
+		INJECTED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml
+		ADDED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml
+		INJECTED from E:\_Skripsi Kevin\App Resep\androidrecipesapp\Recipes App\Project\Recipes App\app\src\main\AndroidManifest.xml

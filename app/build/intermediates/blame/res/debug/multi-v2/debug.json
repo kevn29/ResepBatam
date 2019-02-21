@@ -1,0 +1,41 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\_Skripsi Kevin\\App Resep\\androidrecipesapp\\Recipes App\\Project\\Recipes App\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\_Skripsi Kevin\\App Resep\\androidrecipesapp\\Recipes App\\Project\\Recipes App\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "607,658,715,756,808,875,929,971,1024",
+                        "endColumns": "50,56,40,51,66,53,41,52,53",
+                        "endOffsets": "653,710,751,803,870,924,966,1019,1073"
+                    }
+                },
+                {
+                    "source": "E:\\_Skripsi Kevin\\App Resep\\androidrecipesapp\\Recipes App\\Project\\Recipes App\\app\\src\\main\\res\\values\\color.xml",
+                    "from": {
+                        "startLines": "5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "189,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "44,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "229,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,166,234,279,330,382,426,478,517,563",
+                        "endColumns": "44,65,67,44,50,51,43,51,38,45,43",
+                        "endOffsets": "95,161,229,274,325,377,421,473,512,558,602"
+                    }
+                }
+            ]
+        }
+    ]
+}

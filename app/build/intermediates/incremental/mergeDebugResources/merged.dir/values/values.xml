@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FFFFFF</color>
+    <color name="background_gradient_color_end">#b4000000</color>
+    <color name="background_gradient_color_start">#00000000</color>
+    <color name="bg_warna">#65000000</color>
+    <color name="image_background">#83817D</color>
+    <color name="search_background">#101010</color>
+    <color name="separator">#B2B2B2</color>
+    <color name="splash_background">#8c0000</color>
+    <color name="text">#101010</color>
+    <color name="text_button">#FFFFFF</color>
+    <color name="title_app">#FFFFFF</color>
+    <string name="alert">Resep tidak ada.</string>
+    <string name="app_name">Resep Masakan Batam</string>
+    <string name="desc">Deskrip</string>
+    <string name="directions">Cara Memasak</string>
+    <string name="hello">Hello World, RecipesAppActivity!</string>
+    <string name="ingredients">Bahan - Bahan</string>
+    <string name="search">Search</string>
+    <string name="search_by">Search by name</string>
+    <string name="summary">Deskripsi Masakan</string>
+</resources>
