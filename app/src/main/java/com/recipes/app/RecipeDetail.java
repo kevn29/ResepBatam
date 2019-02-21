@@ -1,8 +1,4 @@
-/**
- * Application name : Recipes App
- * Author			: Taufan Erfiyanto
- * Date				: March 2012
- */
+
 package com.recipes.app;
 
 import java.util.ArrayList;
