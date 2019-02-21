@@ -1,7 +1,7 @@
 # Resep Makanan Batam - Android
 
  * Application name : Resep Makanan Batam
- * Author			      : Kevin Edward Napitpili
+ * Author			      : Kevin Edward Napitpulu
  * Date				      : Februari 2019
  
 Aplikasi resep masakaan khas kota batam, untuk tugas akhir kuliah.
