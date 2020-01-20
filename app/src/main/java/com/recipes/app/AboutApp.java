@@ -15,7 +15,7 @@ public class AboutApp extends Activity{
 	 */
 	String aboutContent = "Recipes App is an application under Android platform " +
 			"which can be used to create application about food recipes. " +
-			"it's designed and developed by Taufan Erfiyanto.<br /><br />" +
+			"it's designed and developed by Kevin Edward N.<br /><br />" +
 			"&copy; 2012 Recipes App. All rights reserved.";
 	
 	@Override
